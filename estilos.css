@@ -1,0 +1,31 @@
+body {
+    background-color: #93a999;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    border-bottom: 3px solid darkblue;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: darkgreen;
+    border-left: 5px solid darkgreen;
+    padding-left: 10px;
+}
+h3 {
+    color: rgb(110, 24, 24);
+    border-left: 5px solid rgb(110, 24, 24);
+    padding-left: 10px;
+}
+p {
+    color: #000000;
+}
+
+img {
+    border: 2px solid #b59797;
+    margin-top: 10px;
+}
